@@ -17,7 +17,7 @@ Historical home for standalone Kingdom of Loathing / KoLmafia scripts from [donC
 | --- | --- | --- |
 | [boneFarm](https://github.com/donCannoli-burns/boneFarm) | `don_custom_functions/scripts/boneFarm.ash` and `don-ash-lib` bone helpers | Skeleton of Crimbo Past knucklebone farming |
 | [boneTrack.ash](https://github.com/donCannoli-burns/boneTrack.ash) | `don_custom_functions/scripts/boneTrack.ash`, `relay/relay_BoneTrack.ash`, and shared `don-ash-lib` helpers | Knucklebone and daily-special tracking |
-| [codMaster](https://github.com/donCannoli-burns/codMaster) | `don_custom_functions/scripts/codMaster.ash` and `don-ash-lib/scripts/don_codmaster_lib.ash` | Eternity Codpiece gem presets, saving and equipping |
+| [codMaster](https://github.com/donCannoli-burns/codMaster) | `don_custom_functions/scripts/codMaster.ash` and `don-ash-lib/don-master-ash-lib/scripts/don_codmaster_lib.ash` | Eternity Codpiece gem presets, saving and equipping |
 
 The original repos remain available as historical references while the transition is underway. Any eventual code import should preserve provenance, notices, and historical documentation. This index does not assert that the files have already been copied here.
 
